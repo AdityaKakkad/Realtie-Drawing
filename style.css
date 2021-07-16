@@ -1,0 +1,51 @@
+/*font-family: 'Liu Jian Mao Cao', cursive;*/
+
+.heading_1 {
+    font-family: 'Poor Story', cursive;
+    font-weight: 700px;
+    font-size: 50px;
+    background-color: cornflowerblue;
+    color: crimson;
+    width: 90%;
+    border-radius: 20px;
+    height: 70px;
+}
+
+.span_heading_1 {
+    background-color: darkseagreen;
+    width: 100%;
+    font-family: 'Lacquer', cursive;
+    font-size: 30px;
+    color: darkslateblue;
+}
+
+.copy_right_footer {
+    background-color: gray;
+    position: fixed;
+    color: white;
+    font-weight: 700px;
+    bottom: 0;
+    width: 100%;
+    line-height: 3;
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Libre Barcode 39 Text', cursive;
+}
+
+canvas {
+    border: 10px;
+    border-style: dashed;
+    border-color: dodgerblue;
+    border-radius: 50px;
+}
+
+video {
+    padding-top: 100px;
+}
+
+#sqr_side {
+    padding-left: 1100px;
+    color: darkblue;
+   
+    
+}
